@@ -1,0 +1,14 @@
+Ionescu,Vlad,18.05.2018 15:00:25,Picioare,4,10,Genuflexiuni cu Bara pe Spate,Genuflexiuni Frontale,Genuflexiuni Bulgare Impartite,Fandari din Mers,END
+
+Popescu,Ionut,25.05.2018 12:00:25,Piept,4,10,Impins din culcat cu bara,Impins din inclinat cu bara,Fluturari cu gantere,Impins la aparatul pentru piept,END
+
+Popescu,Andrei,29.05.2018 17:00:46,Umeri,4,12,Presa militara din picioare,Presa cu ganterele din sezut,Presa cu haltera din sezut,Fluturari din aplecat,END
+
+Popescu,Ionut,30.05.2018 13:00:25,Biceps,4,10,Flexii înclinate cu gantera,Flexii hammer,Flexii de concentrare/Arnold,END
+
+Ionescu,Vlad,30.05.2018 13:25:25,Biceps,4,10,Flexii înclinate cu gantera,Flexii hammer,Flexii duble la scripeti,Flexii de concentrare/Arnold,END
+
+Ionescu,Vlad,04.06.2018 13:30:25,Abdomen,4,12,Ridicari de picioare sau genunchi din atarnat,Crunch la aparat,Crunch la scripete,Roll-out cu roata,END
+
+Popescu,Andrei,06.06.2018 17:00:46,Triceps,4,10,Flotarile la paralele,Impins din culcat cu haltera cu priza apropiata,Extensii pentru triceps sau Skull Crushers,END
+

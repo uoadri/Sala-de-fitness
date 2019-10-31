@@ -1,0 +1,31 @@
+Aplicatie are ca scop gestionarea rezervarilor intr-o sala de
+fitness. Acestea se fac in functie de tipul de antrenament, pe
+exercitiile selectate.
+
+Datele se incarca din fisier in mod automat la deschiderea 
+aplicatiei.
+
+Cum puteti face o rezervare?
+Rezervare:
+1.Introduceti numele si prenumele.
+2.Selectati antrenamentul dorit.
+3.Alegeti exercitiile (pentru a vedea detalii privind exercitiile
+  apasati butonul "Afiseaza Exercitii").
+4.Setati numarul de serii si de repetari pe care doriti sa le
+  efectuati pentru fiecare exercitiu.
+5.Calculati durata antrenamentului prin apasarea butonului
+  "Calculeaza Durata".
+6.Setati data si ora la care doriti rezervarea.
+7.Adaugati rezervarea prin apasarea butonului "Adauga Rezervare"
+  (in cazul in care exista o rezervare pentru exercitiile
+  respective la data aleasa de dumneavoastra, programul va v-a
+  propune o alta data libera).
+
+Daca doriti salvarea rezervarilor intr-un fisier apasati
+"Salvare Date".
+
+Pentru a vedea toate rezervarile apasati "Afisare Date".
+
+Daca doriti sa printati graficul sau informatiile despre exercitii
+apasati click dreapta pe grafic sau pe informatii, click stanga pe
+print.

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Help>
+  <Field id="tbNume">Introduceti numele.</Field>
+  <Field id="tbPrenume">Introduceti prenumele.</Field>
+  <Field id="dtpRezervare">Alegeti data si ora la care doriti sa faceti rezervarea.</Field>
+  <Field id="cbAntrenament">Alegeti grupa de muschi pe care vreti sa o lucrati.</Field>
+  <Field id="clbExercitii">Alegeti exercitiile pe care doriti sa le faceti.</Field>
+  <Field id="tbSerii">Introduceti numarul de serii/exercitiu.</Field>
+  <Field id="tbRepetari">Introduceti numarul de repetari/serie.</Field>
+  <Field id="tbDurataAntrenament">Se calculeaza apasand butonul "Calculeaza Durata".</Field>
+  <Field id="bDurata">Calculeaza durata antrenamentului.</Field>
+  <Field id="bExercitii">Afisaza informatii despre exercitiile alese.</Field>
+  <Field id="buttonRezervare">Face rezervare pentru datele introduse.</Field>
+  <Field id="panelGrafic">Grafic informativ, referitor la calitatea exercitiilor.</Field>
+  <Field id="panelImages">Detalii exercitii.</Field>
+</Help>
